@@ -1,0 +1,6 @@
+[submodule "demo-android-lib"]
+	path = demo-android-lib
+	url = https://github.com/user16332/demo-android-lib.git
+[submodule "demo-android-app"]
+	path = demo-android-app
+	url = https://github.com/user16332/demo-android-app.git

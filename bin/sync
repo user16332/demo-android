@@ -1,0 +1,1 @@
+rsync -irlcz --delete README.md bitnas:ipfs/haskell/demo-android-doc/
